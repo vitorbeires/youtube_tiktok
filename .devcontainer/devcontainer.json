@@ -1,0 +1,14 @@
+{
+  "name": "youtube_tiktok",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {},
+    "ghcr.io/devcontainers-contrib/features/typescript:1": {},
+    "ghcr.io/devcontainers/features/python:1": {},
+    "ghcr.io/devcontainers-contrib/features/deno:1": {},
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers-contrib/features/jest:1": {},
+    "ghcr.io/NicoVIII/devcontainer-features/pnpm:1": {},
+    "ghcr.io/guiyomh/features/vim:0": {}
+  }
+}
